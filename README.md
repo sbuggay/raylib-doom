@@ -34,3 +34,9 @@ Theres no reason to use this over something much more mature like Chocolate Doom
 - Music
 - Configs
 - Mouselook up/down
+
+### Current stable DOOM port to raylib
+
+This project has been inactive since 2020. But, there is an alternative stable DOOM port to raylib, created in 2026, that currently supports multiple platforms (Windows, Linux, MacOS, iOS, Android, WEB) and have available binary releases, some of them with bundled WADs, ready to play.
+
+That stable port can be found here: https://github.com/raydelto/raylib_DOOM.
